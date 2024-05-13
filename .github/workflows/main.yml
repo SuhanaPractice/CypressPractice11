@@ -4,7 +4,7 @@ jobs:
    first_demo_job:
       name : the first demo job
       steps : 
-        - name:Show the demo running 
+        - name: Show the demo running 
       env:
         VAR1: this is
         VAR2: Ademo of
